@@ -2,5 +2,5 @@
 
 how to play
 
-`pip install pygame`
-`python tetris.py`
+- `pip install pygame`
+- `python tetris.py`
